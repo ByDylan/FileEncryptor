@@ -1,0 +1,9 @@
+C:\Users\Dylan\Desktop\Stuff\Projects\Encryptor\Encryptor\bin\Debug\Encryptor.exe.config
+C:\Users\Dylan\Desktop\Stuff\Projects\Encryptor\Encryptor\bin\Debug\Encryptor.exe
+C:\Users\Dylan\Desktop\Stuff\Projects\Encryptor\Encryptor\bin\Debug\Encryptor.pdb
+C:\Users\Dylan\Desktop\Stuff\Projects\Encryptor\Encryptor\obj\Debug\Encrypter.csprojAssemblyReference.cache
+C:\Users\Dylan\Desktop\Stuff\Projects\Encryptor\Encryptor\obj\Debug\Encryptor.Main.resources
+C:\Users\Dylan\Desktop\Stuff\Projects\Encryptor\Encryptor\obj\Debug\Encryptor.Properties.Resources.resources
+C:\Users\Dylan\Desktop\Stuff\Projects\Encryptor\Encryptor\obj\Debug\Encrypter.csproj.GenerateResource.cache
+C:\Users\Dylan\Desktop\Stuff\Projects\Encryptor\Encryptor\obj\Debug\Encryptor.exe
+C:\Users\Dylan\Desktop\Stuff\Projects\Encryptor\Encryptor\obj\Debug\Encryptor.pdb
